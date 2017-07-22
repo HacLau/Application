@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">倾城科技</string>
+    <string name="app_logo">互联网广告制作与投放平台</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
