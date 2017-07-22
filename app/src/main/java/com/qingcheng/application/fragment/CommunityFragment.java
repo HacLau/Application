@@ -87,13 +87,11 @@ public class CommunityFragment extends Fragment{
         });
         return view;
     }
+    //啦啦啦说服力三等奖
 
     @Override
     public void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-
-
     }
 
 
